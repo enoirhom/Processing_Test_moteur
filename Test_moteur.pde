@@ -1,4 +1,4 @@
-//Test Git2
+//Test Git2 branch master
 import processing.serial.*;
 
 Serial myPort;
